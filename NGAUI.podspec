@@ -18,7 +18,7 @@ Pod::Spec.new do |s|
 #   * Finally, don't worry about the indent, CocoaPods strips it!
 
   s.description      = <<-DESC
-Classes and extensions to help aid storyboardless UI.
+Classes and extensions for controllers and views to help aid storyboardless UI.
                        DESC
 
   s.homepage         = 'https://github.com/nextgenappsllc/NGAUI'
